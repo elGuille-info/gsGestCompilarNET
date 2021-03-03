@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>app.ico_Project.ico</ApplicationIcon>
+    <Version>1.0.0.0</Version>
+    <Authors>Guillermo Som</Authors>
+    <Company>elGuille</Company>
+    <Description>Compila proyectos y soluciones de dotnet core (.NET 5.0 y superior)
+
+Microsoft Visual Studio 2019 (.NET 5.0)</Description>
+    <Copyright>Copyright © Guillermo Som (elGuille), 2021</Copyright>
+    <NeutralLanguage>es-ES</NeutralLanguage>
+    <PackageIcon>app.ico_Project.ico</PackageIcon>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>gsGestCompilarNET</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="app.ico_Project.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
