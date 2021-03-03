@@ -17,6 +17,7 @@ Microsoft Visual Studio 2019 (.NET 5.0)</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <PackageId>gsGestCompilarNET</PackageId>
+    <RepositoryUrl>https://github.com/elGuille-info/gsGestCompilarNET</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

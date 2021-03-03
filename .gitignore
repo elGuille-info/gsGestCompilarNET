@@ -3,6 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+**/.vs
+**/bin
+**/obj
+*.lnk
+*.zip
+*.snk
+encrypted-string*.txt
+client_secret*.json
+
 # User-specific files
 *.rsuser
 *.suo
