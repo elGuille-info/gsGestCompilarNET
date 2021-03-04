@@ -9,8 +9,8 @@
     <Authors>Guillermo Som</Authors>
     <Company>elGuille</Company>
     <Description>Compila proyectos y soluciones de dotnet core (.NET 5.0 y superior)
-
-Microsoft Visual Studio 2019 (.NET 5.0)</Description>
+Microsoft Visual Studio 2019 (.NET 5.0)
+Revisión del 3-mar-2021</Description>
     <Copyright>Copyright © Guillermo Som (elGuille), 2021</Copyright>
     <NeutralLanguage>es-ES</NeutralLanguage>
     <PackageIcon>app.ico_Project.ico</PackageIcon>
@@ -18,6 +18,7 @@ Microsoft Visual Studio 2019 (.NET 5.0)</Description>
     <RepositoryType>git</RepositoryType>
     <PackageId>gsGestCompilarNET</PackageId>
     <RepositoryUrl>https://github.com/elGuille-info/gsGestCompilarNET</RepositoryUrl>
+    <PackageTags>dotnet csharp c-sharp net net-core compile execute compilar ejecutar dotnet-build dotnet-run</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
